@@ -9,12 +9,9 @@
     <com.example.admin.filpview.utils.FlipView
         android:id="@+id/flipView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="@drawable/logo">
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:scaleType="centerCrop"
-            android:src="@drawable/logo" />
+
     </com.example.admin.filpview.utils.FlipView>
 </RelativeLayout>
